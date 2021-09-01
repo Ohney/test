@@ -1,4 +1,4 @@
 function helloGit(n1) {
   console.log("Hello Git" + n1);
 }
-helloGit(2);
+helloGit(3);
