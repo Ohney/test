@@ -1,4 +1,4 @@
-function helloGit() {
-  console.log("Hello Git");
+function helloGit(n1) {
+  console.log("Hello Git" + n1);
 }
-helloGit();
+helloGit(2);
